@@ -103,7 +103,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) - Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call arguments before execution.
 
 ### Preventing
-
+* [Bifrost Edge](https://github.com/maximhq/bifrost) - AI governance gateway with endpoint-level guardrails, PII controls, approvals, audit logs, and MCP security.
 ### Social Engineering
 
 * [ChatGPT-Web-Setting-Funny-Abuse](https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse) - Play with ChatGPT-Web and found the HTML rendering in description settings.
